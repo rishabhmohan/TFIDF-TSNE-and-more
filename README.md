@@ -15,5 +15,5 @@ It converts similarities between data points to joint probabilities and tries to
 
 t-SNE has a cost function that is not convex, i.e. with different initializations we can get different results.
 
-# Text classification 
+## Text classification 
 Classfication done on TFIDF vectors using random forest classifier
