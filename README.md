@@ -1,6 +1,3 @@
-# TFIDF-TSNE-and-more
-
-
 ## Data pre -processing: 
 cleaning, tokeization, lemmatization
 
