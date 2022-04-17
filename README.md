@@ -14,3 +14,6 @@ t-SNE has a cost function that is not convex, i.e. with different initialization
 
 ## Text classification 
 Classfication done on TFIDF vectors using random forest classifier
+
+## Word2Vec TSNE visulaization and get similar words
+TSNE visualized on Word2Vec model and then model was used to find similar words
